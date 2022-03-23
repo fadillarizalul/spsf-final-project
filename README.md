@@ -2,15 +2,14 @@
 this is a repository for one of uni course i've taken in 8th semester of my study. which about simulation of covid dynamic movement using agent based modelling for simulation and problem solving in physics
 
 # Project Brief  
-**Title** : Simulasi Dinamika Penyebaran COVID-19 Menggunakan Agent-based Modelling  
+**Title** : Pemodelan Dinamika Penyebaran COVID-19 Menggunakan Euler dan RK4 dengan Pendekatan Model SIR  
 
 **Sistem fisis** :  
 Dalam hal ini, dapat dibuat model interaksi di antara orang-orang yang serupa dengan 
 interaksi fisis dari dua atau lebih partikel atau molekul. Masing-masing mewakili faktor atau 
 parameter tertentu yang dapat memberikan pengaruh terhadap keseluruhan model 
-penyebaran COVID-19. Dalam pemodelan berbasis agen (ABM), sistem seperti ini
-dimodelkan sebagai kumpulan entitas pembuat keputusan yang disebut agen. Setiap agen 
-secara individual menilai situasinya dan membuat keputusan berdasarkan seperangkat 
+penyebaran COVID-19. Dalam pemodelan SIR, sistem seperti ini
+dimodelkan sebagai kumpulan entitas pembuat keputusan yang memiliki parameter masing-masing. Model SIR menggunakan model deterministik yang dikembangkan oleh Kermack dan McKendrick pada tahun 1920. Model SIR bergantung pada tiga parameter, yaitu S: jumlah individu dalam populasi yang belum terinfeksi tetapi *susceptible* terhadap infeksi, I: jumlah individu dalam populasi yang terinfeksi, dan R: jumlah individu yang terjangkit penyakit tetapi pulih karena itu telah menjadi kebal terhadap virus serta parameter A: populasi awal dari daerah yang dimodelkan, r: tingkat penularan penyakit atau tingkat di mana seseorang rentan terinfeksi, a: tingkat pemulihan, dan μ: tingkat kematian keseluruhan. Tiap-tiap parameter secara individual menilai situasinya dan membuat keputusan berdasarkan seperangkat 
 aturan.  
 
 **Model** :  
