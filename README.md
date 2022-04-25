@@ -31,3 +31,9 @@ http://ccl.northwestern.edu/netlogo/models/epiDEMTravelandControl. Center for
 Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.  
 [4] Wilensky, U. (1999). *NetLogo*. http://ccl.northwestern.edu/netlogo/. Center for Connected 
 Learning and Computer-Based Modeling, Northwestern University, Evanston, IL  
+
+**UPDATES**
+[5] http://etheses.uin-malang.ac.id/4054/1/09610075.pdf  
+[6] https://journal.unpak.ac.id/index.php/komputasi/article/download/3623/2422  
+[7] https://repository.its.ac.id/329/3/1212100095-Undergraduate_Theses.pdf  
+[8] https://core.ac.uk/download/pdf/154762681.pdf  
