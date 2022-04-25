@@ -37,3 +37,26 @@ Learning and Computer-Based Modeling, Northwestern University, Evanston, IL
 [6] https://journal.unpak.ac.id/index.php/komputasi/article/download/3623/2422  
 [7] https://repository.its.ac.id/329/3/1212100095-Undergraduate_Theses.pdf  
 [8] https://core.ac.uk/download/pdf/154762681.pdf  
+
+	Latar Belakang
+	Rumusan Masalah
+Berdasarkan latar belakang masalah tersebut, permasalahan yang dapat dirumuskan yaitu sebagai berikut
+	Bagaimana membangun model SIR untuk dinamika Covid-19?
+	Bagaimana analisis model SIR untuk dinamika Covid-19?
+	Bagaimana penerapan simulasi model SIR untuk dinamika Covid-19 menggunakan bahasa pemrograman Python?
+	Batasan Masalah
+Berdasarkan rumusan masalah di atas, batasan yang dapat dirumuskan yaitu sebagai berikut
+	Pada penelitian ini, akan diformulasikan model tanpa adanya pengaruh vaksinasi serta melakukan analisis kestabilan pada kasus Covid-19 dengan model SIR (Susceptible, Infected, Recovered). Lalu dilakukan simulasi untuk model tersebut.
+	Angka kelahiran dan angka kematian diasumsikan sama.
+	Data yang akan digunakan untuk simulasi model adalah data kasus Covid-19 tahun 2022 di provinsi Jawa Barat
+	Tujuan Penelitian
+Tujuan dari dilakukannya penelitian ini yaitu sebagai berikut
+	Mengetahui cara membangun model SIR untuk dinamika Covid-19
+	Mengetahui analisis model SIR untuk dinamika Covid-19
+	Mengetahui implementasi hasil simulasi model SIR untuk dinamika Covid-19 menggunakan bahasa pemrograman Python
+	Teori Covid-19
+	Runge Kutta 4
+Metode Runge Kutta 4 merupakan pengembangan dari metode Euler, yang mana perhitungan penyelesaian masalah matematis dilakukan Langkah demi Langkah. Dinyatakan dalam suatu persamaan diferensial berikut.
+Type equation here.
+Dengan titik pendekatan awal yaitu pada titik (x_0,y_0). Berdasarkan dari metode Euler, nilai fungsi penyelesaian diperoleh sebagai berikut
+Type equation here.
